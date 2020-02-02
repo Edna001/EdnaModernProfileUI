@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EdnaModernProfileUI</string>
+    <string name="full_name">Abby Sandel</string>
+    <string name="back_to_home">Back to\nHome</string>
+    <string name="username_title">Username</string>
+    <string name="username">"@abby_sandel"</string>
+    <string name="phone_title">Phone</string>
+    <string name="phone">+000 00 000 000</string>
+    <string name="address_title">Address</string>
+    <string name="address">City, Street</string>
+    <string name="email_title">Email</string>
+    <string name="email">goldenperfecttv@gmail.com</string>
+</resources>
